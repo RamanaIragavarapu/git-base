@@ -14,7 +14,7 @@ namespace Evenorodd
             }
             else
             {
-                Console.WriteLine("Given Number Is Not An Even Number");
+                Console.Write("Given Number Is Not An Even Number");
             }
         }
     }
